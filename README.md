@@ -1,1 +1,1 @@
-#scriptfighter.github.io
+scriptfighter.github.io
