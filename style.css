@@ -14,7 +14,7 @@
 body {
   background-color: rgb(255, 188, 201);
   font-family: sans-serif;
-  overflow: hidden;
+  overflow-y: hidden;
 }
 
 .container {
